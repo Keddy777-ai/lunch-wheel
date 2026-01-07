@@ -1,4 +1,4 @@
-const GAS_URL = "https://script.google.com/macros/s/AKfycby1WWi6LRmqQcRlbuJI5ku6KopR3ZLl0vpPoK_3LaWwHEAUV-IzRqR83cjUy52budzmmQ/exec"; // <--- 填入你的網址
+const GAS_URL = ""; // <--- 填入你的網址
 const WRITE_TOKEN = "lunch-demo-2026";
 
 const options = ["牛肉麵", "滷肉飯", "壽司", "拉麵", "披薩", "自助餐", "燒臘便當", "麥當勞"];
